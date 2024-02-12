@@ -1,0 +1,43 @@
+body {
+	font-family: "Segoe UI", "Roboto", sans-serif;
+}
+
+.logo {
+	width: 200px;
+}
+
+.channel {
+	width: 150px
+}
+
+.logo {
+	height: 50px;
+}
+
+h1 {
+	font-size: 12pt;
+	font-weight: normal;
+	color: #003399;
+	padding: 10px;
+	padding-left: 0px
+}
+
+#player {
+	border: 0px none;
+}
+
+#masthead-container {
+	margin: -8px !important;
+	padding-left: 10px !important;
+	padding-right: 45px !important;
+	background: #fff;
+	border-bottom: 1px solid #e8e8e8;
+	min-width: 0;
+	padding-bottom: 8px;
+	padding-top: 7px;
+	position: relative;
+}
+
+#masthead-container, #footer-container {
+	background-color: #f1f1f1 !important;
+}
