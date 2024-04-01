@@ -10,6 +10,11 @@ body {
 	padding-left: 20px
 }
 
+.dance {
+	display: block;
+	margin: auto;
+}
+
 .channel {
 	width: 150px
 }
