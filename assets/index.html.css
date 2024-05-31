@@ -82,3 +82,11 @@ button {
 .snowfall-flakes {
     filter: blur(2px);
 }
+
+button {
+	margin-bottom: 20px;
+}
+
+.welcome {
+	width: 87%;
+}
