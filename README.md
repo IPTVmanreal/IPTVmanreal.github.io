@@ -1,2 +1,2 @@
 # IPTVmanreal.github.io
-Elevate your entertainment with IPTVman! 🚀 Premium IPTV service for endless streaming. Join the revolution now! 📺💥
+Source Code for former Github Pages version of the IPTVman website, new domain is https://iptvman.nekoweb.org/
